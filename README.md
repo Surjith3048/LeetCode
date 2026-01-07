@@ -16,15 +16,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surjith3048/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Surjith3048/LeetCode/tree/master/0217-contains-duplicate) |
 | [0643-maximum-average-subarray-i](https://github.com/Surjith3048/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surjith3048/LeetCode/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Surjith3048/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surjith3048/LeetCode/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Surjith3048/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Surjith3048/LeetCode/tree/master/0242-valid-anagram) |
 ## Two Pointers
 |  |
