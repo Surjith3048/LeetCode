@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Surjith3048/LeetCode/tree/master/0001-two-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/Surjith3048/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -30,4 +31,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/Surjith3048/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Surjith3048/LeetCode/tree/master/0344-reverse-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Surjith3048/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
